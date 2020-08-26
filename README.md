@@ -1,1 +1,1 @@
-try begins ThreeJS
+try begins ThreeJS with TypeScript
